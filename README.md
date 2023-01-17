@@ -1,6 +1,8 @@
 ### Hi there 👋
-I'm a Software Engineer with more than 20 years of commercial experience 
-and I would like to apply this experience to a new development type for me. 
+I'm a Software Engineer with more than 20 years of commercial experience. 
+I have organizational and problem-solving skills with a high level of self-motivation for work. 
+I am a highly motivated person, willing to work in a team or as an individual worker as well. 
+Seeking to apply my experience and skills to benefit your company as a python developer.  
 
 Contacts:
 Phone (telegram, Viber): +38&nbsp;050&nbsp;---&nbsp;----
