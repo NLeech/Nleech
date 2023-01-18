@@ -7,6 +7,8 @@ Seeking to apply my experience and skills to benefit your company as a python de
 Contacts:
 Phone (telegram, Viber): +38&nbsp;050&nbsp;---&nbsp;----
 
+Email: alexander.braylovskiy@gmail.com
+
 [Linkedin: https://ua.linkedin.com/in/olexandr-brailovskyi](https://ua.linkedin.com/in/olexandr-brailovskyi/en?trk=public_profile_locale-url)
 
 [GitHub: https://github.com/NLeech](https://github.com/NLeech)
@@ -21,47 +23,13 @@ Address: Odesa, Ukraine
 Python, HTML, CSS, JavaScript, REST, SQL
 
 ### Frameworks and libs:
-Django, Django REST framework, Flask, Flask restful, SQLAlchemy, Swagger, jQuery, Bootstrap, unittest
+Django, Django REST framework, Flask, Flask restful, SQLAlchemy, Celery, Swagger, jQuery, Bootstrap, unittest
 
 ### Tools:
 PostgreSQL, Docker, AWS, Git, Linux
 
 ### Other:
-SOLID, Patterns
-
-----
-
-### Projects:
-+ #### Weather reminder
-API service for weather forecast notification.
-
-Stack:
-
-Python, HTML, CSS, Django, Django REST framework, Bootstrap, Postgres, Docker compose, AWS.
-
-[GitHub: https://github.com/NLeech/Weather-reminder](https://github.com/NLeech/Weather-reminder)
-
-[Link: http://weather-reminder.cv-pf.pp.ua/](http://weather-reminder.cv-pf.pp.ua/)
-
-+ #### Djangogramm
-A simple Instagram-like application.
-
-Stack:
-Python, HTML, CSS, Django, Bootstrap, JavaScript, jQuery, webpack, Postgres, Docker compose, AWS.
-
-[GitHub: https://github.com/NLeech/Djangogramm](https://github.com/NLeech/Djangogramm)
-
-[Link: http://djangogramm.cv-pf.pp.ua/](http://djangogramm.cv-pf.pp.ua/)
-
-+ #### School management
-API service for managing students, groups, and courses.
-
-Stack:
-Python, Flask, REST API, Flask-restful, SQLAlchemy, Swagger, Postgres, Docker compose, AWS.
-
-[GitHub: https://github.com/NLeech/School-management](https://github.com/NLeech/Djangogramm)
-
-[Link: http://school-management.cv-pf.pp.ua/](http://school-management.cv-pf.pp.ua/)
+OOP, SOLID, Patterns
 
 ----
 
