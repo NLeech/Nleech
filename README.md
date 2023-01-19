@@ -4,7 +4,7 @@ I have organizational and problem-solving skills with a high level of self-motiv
 I am a highly motivated person, willing to work in a team or as an individual worker as well. 
 Seeking to apply my experience and skills to benefit your company as a python developer.  
 
-Contacts:
+## Contact
 Phone (telegram, Viber): +38&nbsp;---&nbsp;---&nbsp;----
 
 Email: alexander.braylovskiy@gmail.com
