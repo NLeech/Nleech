@@ -2,7 +2,7 @@
 I'm a Software Engineer with more than 20 years of commercial experience. 
 I have organizational and problem-solving skills with a high level of self-motivation for work. 
 I am a highly motivated person, willing to work in a team or as an individual worker as well. 
-Seeking to apply my experience and skills to benefit your company as a python developer.  
+Seeking to apply my experience and skills to benefit your company as a Python developer.  
 
 ## Contact
 Phone (telegram, Viber): +38&nbsp;---&nbsp;---&nbsp;----
@@ -57,6 +57,6 @@ Bachelor's degree, Computer science
 ----
 
 ### Languages
-+ English - B1 (Intermediate)
++ English - B2 (Upper Intermediate)
 + Ukrainian - fluent
 + Russian - native
